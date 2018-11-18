@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://nexusserver.com:8081/repository/santoshrepo/</url>
+            <url>http://santosh-NE56R:8081/repository/santoshrepo/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://nexusserver.com:8081/repository/santoshsanp/</url>
+            <url>http://santosh-NE56R:8081/repository/santoshsanp/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
