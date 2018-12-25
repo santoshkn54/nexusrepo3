@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://localhost:8081/repository/santoshrepo/</url>
+            <url>http://ec2-13-209-70-173.ap-northeast-2.compute.amazonaws.com:8081/repository/santoshrepo/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://localhost:8081/repository/santoshsnap/</url>
+            <url>http://ec2-13-209-70-173.ap-northeast-2.compute.amazonaws.com:8081/repository/santoshsnap/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
